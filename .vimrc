@@ -1,5 +1,6 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Scott's .vimrc                                                          "
+" Christine's .vimrc 03/07/12                                             "
 " --------------                                                          "
 "   Maintainer: Scott MacDonald <scott@whitespaceconsideredharmful.com>   "
 "   Version: 2.0                                                          "
